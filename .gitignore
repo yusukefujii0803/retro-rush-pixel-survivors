@@ -47,3 +47,4 @@ minimal.html
 # Temporary files
 *.tmp
 *.temp
+.vercel
