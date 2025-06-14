@@ -1,0 +1,29 @@
+{
+  "name": "retro-rush",
+  "version": "0.1.0",
+  "description": "RETRO★RUSH : Pixel Survivors - A retro survival action game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "retro",
+    "action",
+    "survival"
+  ],
+  "author": "",
+  "license": "MIT"
+}
